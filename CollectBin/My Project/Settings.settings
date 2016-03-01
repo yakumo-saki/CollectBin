@@ -9,7 +9,7 @@
       <Value Profile="(Default)" />
     </Setting>
     <Setting Name="ExcludeSuffix" Type="System.String" Scope="User">
-      <Value Profile="(Default)">vhost.exe;log;</Value>
+      <Value Profile="(Default)">log;vshost.exe;vshost.exe.config;vshost.exe.manifest;</Value>
     </Setting>
     <Setting Name="DebugSelected" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">True</Value>

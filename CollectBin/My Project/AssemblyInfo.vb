@@ -43,7 +43,7 @@ Imports System.Windows
 
 
 'このプロジェクトが COM に公開される場合、次の GUID がタイプ ライブラリの ID になります。
-<Assembly: Guid("b2ceb6fc-4ca4-45f2-a3ed-ae4f1e6d33a1")> 
+<Assembly: Guid("b2ceb6fc-4ca4-45f2-a3ed-ae4f1e6d33a1")>
 
 ' アセンブリのバージョン情報は、以下の 4 つの値で構成されています:
 '
@@ -56,5 +56,5 @@ Imports System.Windows
 ' 既定値にすることができます:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.0")> 
-<Assembly: AssemblyFileVersion("1.0.0.0")> 
+<Assembly: AssemblyVersion("2016.3.1.0")>
+<Assembly: AssemblyFileVersion("2016.3.1.0")>
